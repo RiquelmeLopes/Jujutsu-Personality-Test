@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question : "What is work to you?",
+        question : "Question 1: What is work to you?",
         a: "Something i'm naturally good",
         b: "Something i do because i have to",
         c: "Something i hate",
@@ -10,7 +10,7 @@ const quizData = [
         gojo: "d",
         geto: "c",
     }, {
-        question: "For you, how society should work?",
+        question: "Question 2: For you, how society should work?",
         a: "The weaker should respect the stronger",
         b: "The stronger should help and protect the weaker",
         c: "I don't know, i just want my friends to be happy.",
@@ -20,7 +20,7 @@ const quizData = [
         gojo: "b",
         geto: "a",
     }, {
-        question: "What is more important to you?",
+        question: "Question 3: What is more important to you?",
         a: "Friendship",
         b: "Justice",
         c: "Respect",
@@ -30,7 +30,7 @@ const quizData = [
         gojo: "a",
         geto: "b",
     }, {
-        question: "What would be your dream vacation?",
+        question: "Question 4: What would be your dream vacation?",
         a: "Read my countless books i never touche, in my beach house, in Malaysia",
         b: "Spend the days together with my one and only",
         c: "Hang out with my best friends and my daughters, eating street food and shopping",
@@ -40,7 +40,7 @@ const quizData = [
         gojo: "b",
         geto: "c",
     }, {
-        question: "Are you good with conversations?",
+        question: "Question 5: Are you good with conversations?",
         a: "I'm pretty popular, thank you very much",
         b: "I could be a cult leader if i wanted to",
         c: "I'm super shy",
